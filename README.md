@@ -4,4 +4,4 @@
 
 ✚ིㅤㅤ ݃ㅤㅤdancing ㅤㅤ mad ㅤㅤ( ㅤfinal ㅤfantasy ㅤVIㅤ ) ㅤㅤ—ㅤㅤㅤ nobuo ㅤㅤuematsuㅤㅤㅤ.
 
-![GitHub Views](https://komarev.com/ghpvc/?username=thebestvillain&amp;color=2a3154&amp;style=flat&amp;label=omegas)
+![GitHub Views](https://komarev.com/ghpvc/?username=thebestvillain&amp;color=2a3154&amp;style=flat&amp;label=controlled)
