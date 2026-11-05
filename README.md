@@ -1,5 +1,5 @@
 <div align="center">
 
-![hi](https://images-ext1.discordapp.net/external/4eJzJIBaBd4cR4hzZemJm3Ax80e0EISnfa4vhI9x7ZQ/https/static.klipy.com/ii/e293a233a303a98e471f78d04e13a1b0/0f/20/XJUC3AiM6KyQL.mp4)
+![hi](https://cdn.discordapp.com/attachments/1379581426747576440/1567998935065432285/IMG_20261105_172727.jpg?ex=6aee384e&is=6aece6ce&hm=ee43c9c3cd7beaa3464b803e12c9933efcda116a01c37168541676a4c52bf809&)
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=thebestvillain&amp;color=2a3154&amp;style=flat&amp;label=omegas)
